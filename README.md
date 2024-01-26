@@ -7,7 +7,7 @@ Eleven Labs: https://www.elevenlabs.io/
 
 ## Requirements / Setup
 You'll need a Discord bot and an Eleven Labs API key. Getting an Eleven Labs API key is free (at least, as of 1/26/2024).
-To set up the bot, all you need to do is compile it and run it. It will create two files - token.txt and elevenlabstoken.txt in C:/ProgramData/Nuyube/Discord Bots/YourVoice.
+To set up the bot, all you need to do is compile it and run it. It will create two files - token.txt and elevenlabstoken.txt in C:/ProgramData/Discord Bots/YourVoice.
 Fill these two files with your Discord token and Eleven Labs API Key respectively and restart the bot.
 It should begin working immediately.
 
