@@ -15,7 +15,7 @@ internal static class Settings {
     /// <summary>
     /// Holds an invite link for this bot
     /// </summary>
-    public const string InviteLink = "https://discord.com/api/oauth2/authorize?client_id=1195155842207588412&permissions=3145728&scope=bot";
+    public const string InviteLink = "The invite link isn't set! Set it up in Settings.cs!";
 
     /// <summary>
     /// Holds the name of the bot
